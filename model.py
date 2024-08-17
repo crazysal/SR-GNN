@@ -1,12 +1,5 @@
 #!/usr/bin/env python3.12
 # -*- coding: utf-8 -*-
-"""
-Created on July, 2018
-Updated on August, 2024
-
-@author: Tangrizzly
-"""
-
 import datetime
 import math
 import numpy as np
